@@ -70,5 +70,6 @@ Deployment of ML models using Streamlit Community Cloud.
 
 Hemant Singh
 
-Data Science & Computer Vision Enthusiast
+Artificial Intelligence Enthusiast
+
 
