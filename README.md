@@ -48,7 +48,7 @@ Image_Captioning_Segmentation/
 ## ▶ **Run Locally**
 1. Clone the repo:  
 ```bash
-git clone https://github.com/Riya-l209/ImageCaptioning_Segmentation.git
+git clone https://github.com/hemantsingh190/IMAGE-CAPTIONING-AND-SEGMENTATION.git
 cd image-captioning-segmentation
 
 Install dependencies:
@@ -68,6 +68,7 @@ Deployment of ML models using Streamlit Community Cloud.
 
 👩‍💻 Author
 
-Riya Bhardwaj
+Hemant Singh
 
 Data Science & Computer Vision Enthusiast
+
